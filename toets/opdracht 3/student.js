@@ -11,7 +11,11 @@ function Student(naam, studentId) {
 
 let student = new Student('myName', '0001');
 
-// Hier moet je de variabele klas een waarde geven bijvoorbeeld MD2
+md2 = "klas"
+var gegevens = "true"
+
 console.log(
     /* Hier moet de variabele klas getoond worden */
 )
+
+//niet aan toegekomen
